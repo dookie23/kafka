@@ -4,7 +4,7 @@ See our [web site](http://kafka.apache.org) for details on the project.
 
 You need to have [Gradle](http://www.gradle.org/installation) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
 
-Kafka requires Gradle 2.0 or higher.
+Kafka requires Gradle 2.0 or higher ([Install Gradle on Ubuntu 15, 14...](http://linuxg.net/how-to-install-gradle-2-3-on-ubuntu-15-04-ubuntu-14-10-ubuntu-14-04-ubuntu-12-04-and-derivatives/)).
 
 Java 7 should be used for building in order to support both Java 7 and Java 8 at runtime.
 
